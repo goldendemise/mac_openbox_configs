@@ -1,0 +1,9 @@
+#run tint2 on launch
+tint2 &
+
+#bring back wallpaper
+nitrogen --restore &
+
+#enable window transparency
+xcompmgr &
+
