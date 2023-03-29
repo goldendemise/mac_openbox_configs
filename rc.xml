@@ -278,7 +278,7 @@
     </keybind>
     <keybind key="Super_L">
       <action name="Execute">
-        <command>rofi -show run</command>
+        <command>rofi -show drun</command>
       </action>
     </keybind>
     <keybind key="C-A-l">
